@@ -13,18 +13,7 @@
 - Подсчёт правильных ответов  
 - Экран результата с процентами  
 - Возможность пройти заново  
-- Соответствие всем требованиям задания  
-
-### Скриншоты:
-
-#### Экран приветствия
-![Welcome Screen](https://github.com/Maria-Zin/quiz/blob/main/Welcome.jpg)
-
-#### Экран вопроса
-![Question Screen](https://github.com/Maria-Zin/quiz/blob/main/Question.jpg)
-
-#### Экран результата
-![Result Screen](https://github.com/Maria-Zin/quiz/blob/main/Res.jpg)
+- Соответствие всем требованиям задания 
 
 ### Как запустить:
 1. Клонировать репозиторий
